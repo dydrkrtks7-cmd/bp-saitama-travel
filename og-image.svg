@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 배경 -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Geometric pattern -->
+  <circle cx="682" cy="623" r="64" fill="#047857" opacity="0.17"/>
+    <circle cx="231" cy="93" r="91" fill="#047857" opacity="0.12"/>
+    <circle cx="995" cy="178" r="93" fill="#047857" opacity="0.08"/>
+    <circle cx="1093" cy="340" r="65" fill="#047857" opacity="0.17"/>
+    <circle cx="581" cy="630" r="35" fill="#047857" opacity="0.11"/>
+    <circle cx="1185" cy="476" r="31" fill="#047857" opacity="0.16"/>
+    <rect x="35" y="-72" width="89" height="99" rx="8" fill="#059669" opacity="0.10" transform="rotate(18, 635, 68)"/>
+    <rect x="689" y="120" width="56" height="34" rx="8" fill="#059669" opacity="0.11" transform="rotate(29, 478, 36)"/>
+    <rect x="218" y="-69" width="74" height="43" rx="8" fill="#059669" opacity="0.14" transform="rotate(12, 1068, 389)"/>
+    <rect x="912" y="714" width="50" height="23" rx="8" fill="#059669" opacity="0.11" transform="rotate(44, 1126, 198)"/>
+    <rect x="373" y="638" width="23" height="50" rx="8" fill="#059669" opacity="0.11" transform="rotate(17, 1071, 382)"/>
+    <rect x="463" y="193" width="45" height="87" rx="8" fill="#059669" opacity="0.07" transform="rotate(20, 435, 488)"/>
+    <rect x="163" y="538" width="80" height="22" rx="8" fill="#059669" opacity="0.11" transform="rotate(5, 1056, 106)"/>
+    <rect x="596" y="435" width="47" height="58" rx="8" fill="#059669" opacity="0.15" transform="rotate(6, 1117, 489)"/>
+    <polygon points="1110,197 1161,299 1059,299" fill="#047857" opacity="0.07"/>
+    <polygon points="150,267 208,383 92,383" fill="#047857" opacity="0.08"/>
+    <polygon points="878,187 941,313 815,313" fill="#047857" opacity="0.06"/>
+    <polygon points="672,385 733,507 611,507" fill="#047857" opacity="0.11"/>
+
+  <!-- Wave at bottom -->
+  <path d="M0,578 C360,604 840,552 1200,578 L1200,630 L0,630Z" fill="#047857" opacity="0.3"/>
+
+  <!-- 중앙 텍스트 카드 -->
+  <rect x="80" y="195" width="1040" height="260" rx="20" fill="rgba(0,0,0,0.35)" filter="url(#blur-bg)"/>
+  <filter id="blur-bg"><feGaussianBlur stdDeviation="8"/></filter>
+
+  <text x="600" y="270" text-anchor="middle" font-family="'Noto Sans JP','Noto Sans KR','Pretendard',sans-serif" font-size="44" font-weight="700" fill="#ffffff" letter-spacing="2">
+    Saitama travel 안내
+  </text>
+  <text x="600" y="330" text-anchor="middle" font-family="'Noto Sans JP','Noto Sans KR','Pretendard',sans-serif" font-size="22" font-weight="400" fill="rgba(255,255,255,0.85)">
+    Saitama — 정보
+  </text>
+
+  <!-- Accent line -->
+  <line x1="450" y1="355" x2="750" y2="355" stroke="#34d399" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+
+  <!-- 하단 CTA -->
+  <rect x="440" y="385" width="320" height="40" rx="20" fill="#34d399" opacity="0.9"/>
+  <text x="600" y="411" text-anchor="middle" font-family="'Noto Sans JP','Noto Sans KR','Pretendard',sans-serif" font-size="16" font-weight="600" fill="#ffffff">
+    ▼ 자세히 보기
+  </text>
+
+  <!-- 상단 브랜드 -->
+  <text x="60" y="55" font-family="'Noto Sans JP','Noto Sans KR','Pretendard',sans-serif" font-size="18" font-weight="600" fill="rgba(255,255,255,0.6)">
+    Saitama Saitama travel 안내 — 정보
+  </text>
+</svg>
