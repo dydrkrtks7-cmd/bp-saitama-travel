@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[Saitama Saitama travel 안내]]></title>
-  <link>https://</link>
-  <description><![CDATA[Saitama 정보 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Tue, 26 May 2026 08:55:01 GMT</pubDate>
-  <lastBuildDate>Tue, 26 May 2026 08:55:01 GMT</lastBuildDate>
-  <atom:link href="https:///feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[정보]]></title>
+  <link>https://dydrkrtks7-cmd.github.io/bp-saitama-travel</link>
+  <description><![CDATA[정보 - Saitama travel 안내 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 02:54:11 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 02:54:11 GMT</lastBuildDate>
+  <atom:link href="https://dydrkrtks7-cmd.github.io/bp-saitama-travel/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[Saitama Saitama travel 안내 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https:///</link>
-      <guid isPermaLink="true">https:///</guid>
-      <description><![CDATA[Saitama 정보 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Tue, 26 May 2026 08:55:01 GMT</pubDate>
+      <title><![CDATA[Saitama travel 안내 현장에서 놓치기 쉬운 포인트를 기록해봤다]]></title>
+      <link>https://dydrkrtks7-cmd.github.io/bp-saitama-travel/posts/field_note-002-11kcqg9.html</link>
+      <guid isPermaLink="true">https://dydrkrtks7-cmd.github.io/bp-saitama-travel/posts/field_note-002-11kcqg9.html</guid>
+      <description><![CDATA[### 포스트 DNA 1bd07a49 #### POST DNA 1bd07a49 제목: 창작한 제목: 미사용 보스 데이터마이닝, 실패 원칙 분석 관점: 실패 사례를 복기해 재발 방지 원칙을 도출 구조: comparative-journey — 동일 목표를 두 상황으로 시도]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Saitama travel 안내 솔직 후기 — 3개월 써본 사람의 리얼 리뷰]]></title>
+      <link>https://dydrkrtks7-cmd.github.io/bp-saitama-travel/posts/review-001-11kcqg9.html</link>
+      <guid isPermaLink="true">https://dydrkrtks7-cmd.github.io/bp-saitama-travel/posts/review-001-11kcqg9.html</guid>
+      <description><![CDATA[### 키워드 컨텍스트이 글의 배경 비즈니스 키워드는 "Saitama travel 안내"입니다. 글 내용 중 한정판 스니커즈 마이너 디테일과 삼바 OG 박스 태그에 대한 비교를 자연스럽게 이어갈 수 있는 지점은, '스니커즈 보관 시 슈트리 사용'의 중요성입니다. ###]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
