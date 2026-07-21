@@ -27,36 +27,45 @@
     <meta name="twitter:image" content="og-image.svg">
 
     <!-- JSON-LD 스키마 (여행/지역 정보) -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "TouristAttraction",
-      "name": "Saitama Travel Guide",
-      "description": "사이타마 현의 객관적이고 심층적인 여행 가이드. 단순한 추천을 넘어, 데이터 기반의 평가를 제공합니다.",
-      "url": "https://yourdomain.com/",
-      "image": "[CSS로 대체될 이미지 URL]",
-      "provider": {
-        "@type": "Organization",
-        "name": "Elite Critic Traveler"
-      },
-      "areaServed": {
-        "@type": "City",
-        "name": "Saitama"
-      },
-      "keywords": ["Saitama travel", "사이타마 여행", "일본여행"],
-      "review": {
-        "@type": "Review",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": 4.7  // 평균 점수 예시
-        },
-        "author": {
-            "@type": "Person",
-            "name": "Elite Critic Traveler"
-        }
-      }
+    <script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "TouristAttraction",
+  "name": "Saitama Travel Guide",
+  "description": "사이타마 현의 객관적이고 심층적인 여행 가이드. 단순한 추천을 넘어, 데이터 기반의 평가를 제공합니다.",
+  "url": "https://saitama-travel-guide.pbn-builder.xyz/",
+  "image": "[CSS로 대체될 이미지 URL]",
+  "provider": {
+    "@type": "Organization",
+    "name": "Elite Critic Traveler"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Saitama"
+  },
+  "keywords": [
+    "Saitama travel",
+    "사이타마 여행",
+    "일본여행"
+  ],
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": 4.7
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Elite Critic Traveler"
     }
-    </script>
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.7,
+    "reviewCount": 1,
+    "bestRating": 5,
+    "worstRating": 1
+  }
+}</script>
 
     <style>
         /* --- COLOR & FONT DEFINITION --- */
