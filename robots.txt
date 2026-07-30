@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://idae-fullsalon-note.mapo-room-guide.xyz/sitemap.xml
-Sitemap: https://idae-fullsalon-note.mapo-room-guide.xyz/sitemap-pages.xml
+Sitemap: https://saitama-travel-guide.pbn-builder.xyz/sitemap.xml
+Sitemap: https://saitama-travel-guide.pbn-builder.xyz/sitemap-pages.xml
